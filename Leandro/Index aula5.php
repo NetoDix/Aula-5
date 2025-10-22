@@ -71,7 +71,7 @@
     </header>
     <main>
         <section id="intro">
-            <h3>O Mundo da Maconha</h3>
+            <h3>O Mundo dos Animes</h3>
             <p>Os animes são formas populares de entretenimento que transcendem fronteiras culturais e conquistam corações em todo o mundo. Com suas narrativas envolventes, personagens cativantes e estilos de animação únicos, os animes têm a capacidade de transportar os espectadores para mundos imaginários repletos de aventura, emoção e reflexão.</p>
             <p>Desde suas origens no Japão até sua influência global, os animes se transformaram em um fenômeno cultural que transcende fronteiras geográficas e gerações. O surgimento dos animes remonta ao início do século 20, com obras como "Astro Boy" que pavimentaram o caminho para o desenvolvimento desse estilo distintivo de animação. No entanto, foi nas décadas seguintes que os animes começaram a ganhar maior reconhecimento internacional. A popularidade de séries como "Dragon Ball", "Naruto" e "Sailor Moon" na década de 1990 ajudou a estabelecer uma base de fãs global e a despertar o interesse por essa forma de entretenimento. A internet e a disseminação de plataformas de streaming permitiram que pessoas ao redor do mundo tivessem acesso a uma vasta gama de animes, independentemente de sua localização geográfica.</p>
         </section>
